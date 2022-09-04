@@ -1,0 +1,15 @@
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/bin/Debug/net6.0/Example005_Conditions_if_else
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/bin/Debug/net6.0/Example005_Conditions_if_else.deps.json
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/bin/Debug/net6.0/Example005_Conditions_if_else.runtimeconfig.json
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/bin/Debug/net6.0/Example005_Conditions_if_else.dll
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/bin/Debug/net6.0/Example005_Conditions_if_else.pdb
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/Example005_Conditions_if_else.csproj.AssemblyReference.cache
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/Example005_Conditions_if_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/Example005_Conditions_if_else.AssemblyInfoInputs.cache
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/Example005_Conditions_if_else.AssemblyInfo.cs
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/Example005_Conditions_if_else.csproj.CoreCompileInputs.cache
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/Example005_Conditions_if_else.dll
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/refint/Example005_Conditions_if_else.dll
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/Example005_Conditions_if_else.pdb
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/Example005_Conditions_if_else.genruntimeconfig.cache
+/Users/sofiakabanova/GB/CSharp/Examples/Example005_Conditions_if_else/obj/Debug/net6.0/ref/Example005_Conditions_if_else.dll
